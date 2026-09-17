@@ -16,6 +16,4 @@ Interactive 180-question flashcard site based on the Easy, Intermediate, and Adv
 
 ## GitHub Pages
 
-After GitHub Pages is enabled for the `main` branch, the study site is available at:
-
 https://shkuhub.github.io/study-salesforce/
